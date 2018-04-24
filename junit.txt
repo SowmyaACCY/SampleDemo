@@ -1,0 +1,12 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 82BF-3D91
+
+ Directory of C:\Softwares\Javaproject
+
+04/24/2018  02:36 PM    <DIR>          .
+04/24/2018  02:36 PM    <DIR>          ..
+04/24/2018  02:36 PM                 0 junit.txt
+04/24/2018  02:34 PM               667 Sample.class
+04/24/2018  11:18 AM               134 Sample.java
+               3 File(s)            801 bytes
+               2 Dir(s)  416,629,702,656 bytes free
